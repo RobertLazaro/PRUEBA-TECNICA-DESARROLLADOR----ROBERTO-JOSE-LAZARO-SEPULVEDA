@@ -12,3 +12,9 @@ Este es un proyecto desarrollado por el candidato ROBERTO JOSÉ LÁZARO SEPULVED
 para la prueba técnica para el cargo de DESARROLLADOR de la FUNDACIÓN IDEANDO, 
 el cuál consiste en desarrollar una aplicación web que le permita al usuario 
 poder crear tareas nuevas, marcas las tareas como completadas y eliminar las tareas.
+
+
+Autor
+-----
+
+ROBERTO JOSÉ LÁZARO SEPULVEDA
